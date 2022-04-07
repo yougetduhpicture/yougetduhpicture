@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yougetduhpicture. Most people know as Rasmus, though. I'm a 3rd year Business Information Technology student from Haaga-Helia.
-- 👀 I’m interested in UX/UI-design, coding, music, barnding, photography...
+- 👀 I’m interested in UX/UI-design, coding, music, branding, photography...
 - 🌱 I’m currently learning Full Stack Mooc
 - 💞️ I’m looking to collaborate on programming and usability projects.
 - 📫 You can reach me via email: ruonakoski.rasmus@gmail.com
