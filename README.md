@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yougetduhpicture. Most people know me as Rasmus, though. I'm currently rocking the world as a bass player in Us.
+- 👋 Hi, I’m @yougetduhpicture. Most people know me as Rasmus, though. I'm currently rocking the world as a bass player for Us.
 - 👀 I’m interested in programming, UX/UI design, music, branding, reading and photography
 - 🌱 I've been learning full-stack development for the past few years, and the next thing I'll learn is writing tests
 - 💞️ I can help you with programming and usability projects.
