@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @yougetduhpicture. Most people know me as Rasmus, though. I'm a Business Information Technology graduate from Haaga-Helia. And work currently with Us.
-- 👀 I’m interested in programming, UX/UI design, music, branding, photography...
-- 🌱 Getting my stacks together.
-- 💞️ I’m looking to collaborate on programming and usability projects.
+- 👋 Hi, I’m @yougetduhpicture. Most people know me as Rasmus, though. I'm currently rocking the world as a bass player in Us.
+- 👀 I’m interested in programming, UX/UI design, music, branding, reading and photography
+- 🌱 I've been learning full-stack development for the past few years, and the next thing I'll learn is writing tests
+- 💞️ I can help you with programming and usability projects.
 - 📫 You can reach me via email: ruonakoski.rasmus@gmail.com
 
 <!---
