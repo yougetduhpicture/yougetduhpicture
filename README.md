@@ -27,7 +27,7 @@ const rasmus = {
   backend:     ["Node.js", "Express"],
   databases:   ["MariaDB", "MongoDB"],
   tools:       ["Claude Code", "Git", "Linux"],
-  learning:    ["Go (someday)", "system design at scale"],
+  learning:    ["system design at scale"],
 }
 ```
 
@@ -39,7 +39,6 @@ const rasmus = {
 🎨 UI/UX and branding  
 📷 Photography  
 📚 philosophy (Wittgenstein, Popper, Ockham)  
-🌱 one kumquat plant, still alive
 
 ---
 
