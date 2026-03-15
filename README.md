@@ -38,7 +38,7 @@ I build things with **TypeScript, React, Node.js, and Express**.
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
 
 #### Testing
-![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white)
 ![Supertest](https://img.shields.io/badge/Supertest-000000)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?logo=junit5&logoColor=white)
 
