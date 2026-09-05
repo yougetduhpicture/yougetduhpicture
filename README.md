@@ -57,7 +57,6 @@ I build things with **TypeScript, React, Node.js, and Express**.
 🎵 music & sound design  
 🎨 UI/UX and branding  
 📷 Photography  
-📚 philosophy (Wittgenstein, Popper, Ockham)  
 
 ---
 
